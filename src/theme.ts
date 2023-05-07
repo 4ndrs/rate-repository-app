@@ -8,6 +8,7 @@ const theme = {
     tag: "#1b86de",
     gray: "gray",
     cardBg: "white",
+    lightBg: "#e8e8e8",
   },
   fontSize: {
     body: 14,
