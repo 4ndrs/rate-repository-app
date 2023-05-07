@@ -21,6 +21,7 @@ const styles = StyleSheet.create({
     display: "flex",
     flexDirection: "column",
     // gap: 3, // rip no gap on 0.69.9
+    paddingRight: 60,
   },
   pseudoGap: {
     marginBottom: 3,
