@@ -1,17 +1,19 @@
 const theme = {
-  colors: {
+  color: {
     textPrimary: "#24292e",
     textSecondary: "#586069",
+    textWhite: "white",
     primary: "#0366d6",
+    background: "#24292e",
   },
-  fontSizes: {
+  fontSize: {
     body: 14,
     subheading: 16,
   },
-  fonts: {
+  fontFamily: {
     main: "System",
   },
-  fontWeights: {
+  fontWeight: {
     normal: "400",
     bold: "700",
   },
