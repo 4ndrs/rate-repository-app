@@ -7,7 +7,7 @@ const theme = {
     background: "#24292e",
     gray: "gray",
     cardBg: "white",
-    lightBg: "#e8e8e8",
+    lightBg: "#e1e4e8",
   },
   fontSize: {
     body: 14,
