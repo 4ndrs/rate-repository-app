@@ -5,6 +5,9 @@ const theme = {
     textWhite: "white",
     primary: "#0366d6",
     background: "#24292e",
+    tag: "#1b86de",
+    gray: "gray",
+    cardBg: "white",
   },
   fontSize: {
     body: 14,
@@ -16,6 +19,10 @@ const theme = {
   fontWeight: {
     normal: "400",
     bold: "700",
+  },
+  borderRadius: {
+    small: 4,
+    medium: 8,
   },
 } as const;
 
