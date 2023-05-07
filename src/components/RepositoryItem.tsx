@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
   },
   tag: {
     alignSelf: "flex-start",
-    backgroundColor: theme.color.tag,
+    backgroundColor: theme.color.primary,
     paddingTop: 3,
     paddingBottom: 3,
     paddingLeft: 5,

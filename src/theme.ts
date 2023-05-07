@@ -5,7 +5,6 @@ const theme = {
     textWhite: "white",
     primary: "#0366d6",
     background: "#24292e",
-    tag: "#1b86de",
     gray: "gray",
     cardBg: "white",
     lightBg: "#e8e8e8",
